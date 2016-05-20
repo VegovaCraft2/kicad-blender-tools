@@ -1,7 +1,3 @@
 *.kicad_pcb-bak
 *~
 *.blend
-*.blend1
-zap
-kicad-library
-kicad-library-utils
